@@ -3,7 +3,7 @@ Este repositório tem como objetivo armazenar os trabalhos feitos na matéria de
 
 
 ## Problema dos Missionários e Canibais
-Foi immplementada uma solução para resolver o problema dos "Missionários e Canibais" utilizando o algoritmo de busca A*, o algoritmo
+Foi implementada uma solução para resolver o problema dos "Missionários e Canibais" utilizando o algoritmo de busca A*, o algoritmo
 contém estratégia para evitar estados repetidos. Para mais informações sobre o problema consultar o arquivo README.md dentro da 
 pasta Missionarios_e_canibais.
 
