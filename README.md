@@ -1,5 +1,5 @@
 ### Inteligencia_artificial
-Este repositório tem como objetivo armazenar os trabalhos feitos na matéria de Inteligência artificial
+Este repositório tem como objetivo armazenar os trabalhos feitos na matéria de Inteligência artificial, ocorrida no ano de 2022.
 
 
 ## Problema dos Missionários e Canibais
