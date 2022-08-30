@@ -22,7 +22,7 @@ pasta Aviao. <br />
 Foi utilizado um dataset público de Tumor Cerebral (https://www.kaggle.com/jakeshbohaju/brain-tumor) que contém duas classes: contém 
 tumor e não contém tumor. Este dataset contém 3.762 amostras, distribuídas em 12 colunas. Para fazer o treinamento da rede, o algoritmo
 particiona os dados e implementa Dropout, Função de ativação, Método de treinamento, Épocas de treinamento e batch size. Os resultados 
-do treinamento podem ser vistos nos gráficos de acurácia, perda, função ROC e matriz de confusão. Para mais informações sobre o problema 
+do treinamento podem ser vistos nos gráficos de acurácia, perda, função ROC e matriz de confusão. Para mais informações sobre este trabalho 
 consultar o arquivo README.md dentro da pasta RNA. <br />
 
 ### Acurácia
@@ -36,6 +36,17 @@ consultar o arquivo README.md dentro da pasta RNA. <br />
 
 ### Matriz de Confusão
 ![matriz_de_confusao](https://user-images.githubusercontent.com/95611970/187555194-07ecea72-3005-4499-b975-9ca881a5050e.jpg)
+
+## Trabalho final: Detecção de Alimentos Através da Rede EfficientNet
+Detecção de alimentos em imagens feita através da rede EfficientNet para complementar o Trabalho de Conclusão de Curso desenvolvido
+no ano de 2022. Para mais informações sobre este trabalho consultar o arquivo brendaMoura_trabalhoFinal.pdf dentro da pasta TrabalhoFinal.
+
+### Resultado da Classificação desta Rede Neural
+
+![Resultado](https://user-images.githubusercontent.com/95611970/187558041-01dd3cdd-35fc-4ac7-a6fe-ff6e0d0e9539.jpg)
+
+
+
 
 
 
