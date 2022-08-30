@@ -22,6 +22,11 @@ ainda seja respeitada a proporcionalidade dos compartimentos.
 * Cada carga pode ser dividida em dois ou mais compartimentos se for necessário;
 * Quaisquer cargas podem ser alocadas em quaisquer compartimentos.
 
+### Resultado do meu algoritmo
+Foram feitos dois experimentos nos quais foram atribuídos valores diferentes para as variáveis max_generation e mutation_rate.
+O maior lucro foi obtido com o experimento 2, conforme mostra imagem abaixo. Para mais detalhes, acessar o arquivo BRENDA_MOURA_ROTEIRO-OFICIAL.pdf
+<br />
+![Screenshot_3](https://user-images.githubusercontent.com/95611970/187547630-b7c36e17-8514-430b-8fed-945563f1b83a.jpg)
 
 
 
