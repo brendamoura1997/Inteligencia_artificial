@@ -20,10 +20,10 @@ pasta Aviao. <br />
 
 ## Rede Neural para classificação de Tumor Cerebral
 Foi utilizado um dataset público de Tumor Cerebral (https://www.kaggle.com/jakeshbohaju/brain-tumor) que contém duas classes: contém 
-tumor e não contém tumor. Este dataset contém 3.762 amostras, distribuídas em 12 colunas. O algoritmo particiona os dados e implementa 
-Dropout, Função de ativação, Método de treinamento, Épocas de treinamento, batch size para que permita-se obter o treinamento da rede.
-Os resultados podem ser vistos nos gráficos de acurácia, perda, função ROC e matriz de confusão. Para mais informações sobre o problema 
-ler o arquivo README.md dentro da pasta Aviao. <br />
+tumor e não contém tumor. Este dataset contém 3.762 amostras, distribuídas em 12 colunas. Para fazer o treinamento da rede, o algoritmo
+particiona os dados e implementa Dropout, Função de ativação, Método de treinamento, Épocas de treinamento e batch size. Os resultados 
+do treinamento podem ser vistos nos gráficos de acurácia, perda, função ROC e matriz de confusão. Para mais informações sobre o problema 
+consultar o arquivo README.md dentro da pasta RNA. <br />
 
 ### Acurácia
 ![acuracia](https://user-images.githubusercontent.com/95611970/187555140-f8615837-b352-44a1-bbea-4d8d8808c1cd.jpg)
