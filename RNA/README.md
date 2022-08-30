@@ -1,5 +1,5 @@
 ## Rede Neural para classificação de Tumor Cerebral
-Foi utilizado um dataset público de Tumor Cerebral (#https://www.kaggle.com/jakeshbohaju/brain-tumor) que contém duas classes: 
+Foi utilizado um dataset público de Tumor Cerebral (https://www.kaggle.com/jakeshbohaju/brain-tumor) que contém duas classes: 
 contém tumor e não contém tumor. Este dataset contém 3.762 amostras, distribuídas em 12 colunas. 
 
 Os dados foram particionados em conjuntos de treinamento e teste, sendo estes dados separados aleatoriamente em ⅔ para treinamento
