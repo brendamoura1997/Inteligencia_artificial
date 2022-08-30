@@ -1,6 +1,6 @@
 ## Problema da distribuição de carga em um avião
 Um avião de carga tem três compartimentos (dianteiro, central e traseiro), onde cada um com as capacidades volumétricas 
-e de peso mostradas a seguir: <br />
+e de peso mostradas a seguir: <br /><br />
 ![Screenshot_1](https://user-images.githubusercontent.com/95611970/187544978-14a3b0f7-8f6a-4a67-b8ce-0eefa9f5d7af.jpg)
 
 Para ser mantido o equilíbrio em voo, a distribuição de carga nos compartimentos do avião deve ser equilibrada de tal 
