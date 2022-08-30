@@ -3,10 +3,11 @@ Este repositório tem como objetivo armazenar os trabalhos feitos na matéria de
 
 
 ## Problema dos Missionários e Canibais
-O problema de missionários e canibais é normalmente enunciado como a seguir: <br />
 Três canibais e três missionários estão viajando juntos e chegam à margem de um rio. Eles desejam atravessar para a outra margem para, 
-desta forma, continuar a viagem. O único meio de transporte disponível é um barco que comporta no máximo duas pessoas. Há uma outra 
-dificuldade: em nenhum momento o número de canibais pode ser superior ao número de missionários pois desta forma os missionários estariam 
+desta forma, continuar a viagem. <br />
+* Regras:
+* 1- O único meio de transporte disponível é um barco que comporta no máximo duas pessoas.
+* 2- Em nenhum momento o número de canibais pode ser superior ao número de missionários pois desta forma os missionários estariam 
 em grande perigo de vida. <br />
 Para executar o algoritmo de resolução do problema, copie o código, cole no console do navegador e pressione Enter. O console do navegador 
 Chrome pode ser acessado por meio do atalho ctrl+shift+i. O resultado deve ser conforme mostra a imagem abaixo: <br /><br />
