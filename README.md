@@ -6,7 +6,7 @@ Este repositório tem como objetivo armazenar os trabalhos feitos na matéria de
 Três canibais e três missionários estão viajando juntos e chegam à margem de um rio. Eles desejam atravessar para a outra margem para, 
 desta forma, continuar a viagem. <br />
 
-Regras:
+* Regras:
 * 1- O único meio de transporte disponível é um barco que comporta no máximo duas pessoas.
 * 2- Em nenhum momento o número de canibais pode ser superior ao número de missionários pois desta forma os missionários estariam 
 em grande perigo de vida. <br />
